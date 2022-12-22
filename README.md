@@ -1,1 +1,1 @@
-"This repository contains notebooks related to machine learning tasks." 
+"This repository contains notebooks related to Machine Learning tasks." 
